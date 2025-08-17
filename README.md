@@ -1,23 +1,23 @@
 # 📞 Phone Book System
 
-A simple **Java-based Phone Book application** that allows users to manage contacts efficiently using CRUD operations. This project is built as a console application and demonstrates **Object-Oriented Programming (OOP)** concepts and core Java fundamentals.
+A **Java-based Phone Book application** that allows users to manage contacts with ease.  
+This console-based project demonstrates **Object-Oriented Programming (OOP)** concepts,  
+core Java features, and simple persistence through **CSV import/export**.
 
 ---
 
 ## 🚀 Features
-- ➕ Add new contacts with name and phone number  
-- 🔍 Search contacts by name or number  
-- ✏️ Update existing contact details  
-- ❌ Delete contacts from the phone book  
-- 📋 Display all saved contacts in a structured format  
+- ➕ **CRUD Operations** – Add, search, update, and delete contacts  
+- 🗂️ **CSV Import/Export** – Save and load contacts with Java File I/O for portability  
+- ✅ **Data Validation** – Enforced phone and email formats using Java Regex  
+- 🧩 **OOP Principles** – Encapsulation, modular methods, and clean class design  
+- ⚠️ **Error Handling** – Robust exception management for safe input handling  
 
 ---
 
 ## 🛠️ Technologies Used
-- **Java** (Core Java, OOP)  
-- **Collections Framework** (ArrayList/HashMap for storage)  
-- **Exception Handling** for safe user input  
+- **Java (Core Java, OOP, Collections)**  
+- **File I/O (CSV Persistence)**  
+- **Regex (Validation for phone/email)**  
 
 ---
-
-## 📂 Project Structure
